@@ -1,0 +1,40 @@
+.calculo{
+    padding: 10px;
+    text-align: center;
+    font-size: 24px;
+    color: #c7965a;
+}
+
+h1{
+    margin: 10px;
+    padding: 10px;
+    background-color: #c25b42;
+    color: #5f4424;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.resultado{
+    font-size: 36px;
+}
+
+.cja1{
+    max-width: 90%;
+    margin: 10px;
+    padding: 8px;
+    border-radius: 10px;
+    color: #c7965a;
+    font-size: 18px;
+}
+.boton{
+    background-color: #5d4d27;
+    border-radius: 5px;
+    color: #c7965a;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
